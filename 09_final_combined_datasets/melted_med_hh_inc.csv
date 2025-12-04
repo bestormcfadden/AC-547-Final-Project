@@ -1,0 +1,301 @@
+Metropolitan area,Year,Median_Household_Income
+Atlanta,2012,55271
+Atlanta,2013,55733
+Atlanta,2014,56202
+Atlanta,2015,60219
+Atlanta,2016,62613
+Atlanta,2017,65381
+Atlanta,2018,69464
+Atlanta,2019,71742
+Atlanta,2020,74665
+Atlanta,2021,77589
+Atlanta,2022,84876
+Atlanta,2023,86505
+Baltimore,2012,67756
+Baltimore,2013,68455
+Baltimore,2014,71587
+Baltimore,2015,72520
+Baltimore,2016,76788
+Baltimore,2017,77394
+Baltimore,2018,80469
+Baltimore,2019,83160
+Baltimore,2020,84731
+Baltimore,2021,86302
+Baltimore,2022,90505
+Baltimore,2023,94289
+Boston,2012,72571
+Boston,2013,72907
+Boston,2014,75710
+Boston,2015,78800
+Boston,2016,82380
+Boston,2017,85691
+Boston,2018,88711
+Boston,2019,94430
+Boston,2020,97590
+Boston,2021,100750
+Boston,2022,104299
+Boston,2023,110697
+Charlotte,2012,53288
+Charlotte,2013,51251
+Charlotte,2014,53607
+Charlotte,2015,54836
+Charlotte,2016,59979
+Charlotte,2017,61156
+Charlotte,2018,62068
+Charlotte,2019,66399
+Charlotte,2020,68720
+Charlotte,2021,71041
+Charlotte,2022,77154
+Charlotte,2023,81262
+Chicago,2012,60005
+Chicago,2013,60564
+Chicago,2014,61653
+Chicago,2015,63153
+Chicago,2016,66020
+Chicago,2017,68403
+Chicago,2018,70760
+Chicago,2019,75379
+Chicago,2020,76772
+Chicago,2021,78166
+Chicago,2022,82914
+Chicago,2023,87071
+DFW,2012,57532
+DFW,2013,57398
+DFW,2014,59593
+DFW,2015,61644
+DFW,2016,63812
+DFW,2017,67382
+DFW,2018,69445
+DFW,2019,72265
+DFW,2020,74120
+DFW,2021,75975
+DFW,2022,82823
+DFW,2023,86860
+Denver,2012,62010
+Denver,2013,62760
+Denver,2014,66945
+Denver,2015,70283
+Denver,2016,71926
+Denver,2017,76643
+Denver,2018,79478
+Denver,2019,85641
+Denver,2020,88178
+Denver,2021,90716
+Denver,2022,98975
+Denver,2023,103055
+Detroit,2012,50885
+Detroit,2013,51857
+Detroit,2014,52509
+Detroit,2015,53628
+Detroit,2016,56142
+Detroit,2017,58411
+Detroit,2018,60513
+Detroit,2019,63474
+Detroit,2020,65313
+Detroit,2021,67153
+Detroit,2022,71265
+Detroit,2023,72574
+Houston,2012,56578
+Houston,2013,57366
+Houston,2014,60124
+Houston,2015,61465
+Houston,2016,61708
+Houston,2017,63802
+Houston,2018,65394
+Houston,2019,69193
+Houston,2020,70043
+Houston,2021,70893
+Houston,2022,74863
+Houston,2023,79463
+Los Angeles,2012,58065
+Los Angeles,2013,58869
+Los Angeles,2014,60565
+Los Angeles,2015,62544
+Los Angeles,2016,65950
+Los Angeles,2017,69992
+Los Angeles,2018,72563
+Los Angeles,2019,77774
+Los Angeles,2020,80138
+Los Angeles,2021,82503
+Los Angeles,2022,87743
+Los Angeles,2023,91960
+Miami,2012,47154
+Miami,2013,46946
+Miami,2014,48480
+Miami,2015,50441
+Miami,2016,51362
+Miami,2017,54284
+Miami,2018,56328
+Miami,2019,60141
+Miami,2020,61977
+Miami,2021,63814
+Miami,2022,70769
+Miami,2023,76271
+Minneapolis,2012,67048
+Minneapolis,2013,67194
+Minneapolis,2014,69183
+Minneapolis,2015,71008
+Minneapolis,2016,73231
+Minneapolis,2017,76856
+Minneapolis,2018,79578
+Minneapolis,2019,83698
+Minneapolis,2020,85565
+Minneapolis,2021,87433
+Minneapolis,2022,91341
+Minneapolis,2023,95102
+New York,2012,64936
+New York,2013,65786
+New York,2014,67108
+New York,2015,68743
+New York,2016,71897
+New York,2017,75368
+New York,2018,78478
+New York,2019,83160
+New York,2020,83784
+New York,2021,84409
+New York,2022,91562
+New York,2023,95220
+Philadelphia,2012,60661
+Philadelphia,2013,60482
+Philadelphia,2014,48294
+Philadelphia,2015,51077
+Philadelphia,2016,52385
+Philadelphia,2017,55089
+Philadelphia,2018,58610
+Philadelphia,2019,61876
+Philadelphia,2020,63406
+Philadelphia,2021,64936
+Philadelphia,2022,71857
+Philadelphia,2023,77378
+Phoenix,2012,51860
+Phoenix,2013,51847
+Phoenix,2014,62223
+Phoenix,2015,65123
+Phoenix,2016,65996
+Phoenix,2017,68572
+Phoenix,2018,70747
+Phoenix,2019,74533
+Phoenix,2020,77270
+Phoenix,2021,80007
+Phoenix,2022,84123
+Phoenix,2023,86867
+Pittsburgh,2012,50998
+Pittsburgh,2013,51291
+Pittsburgh,2014,53449
+Pittsburgh,2015,55547
+Pittsburgh,2016,58075
+Pittsburgh,2017,61506
+Pittsburgh,2018,64427
+Pittsburgh,2019,67896
+Pittsburgh,2020,71813
+Pittsburgh,2021,75731
+Pittsburgh,2022,82884
+Pittsburgh,2023,85700
+Portland,2012,57597
+Portland,2013,59168
+Portland,2014,60272
+Portland,2015,63850
+Portland,2016,68676
+Portland,2017,71931
+Portland,2018,75599
+Portland,2019,78439
+Portland,2020,81191
+Portland,2021,83943
+Portland,2022,89312
+Portland,2023,94925
+Riverside,2012,52221
+Riverside,2013,53220
+Riverside,2014,54644
+Riverside,2015,56087
+Riverside,2016,58236
+Riverside,2017,61994
+Riverside,2018,65671
+Riverside,2019,70954
+Riverside,2020,73986
+Riverside,2021,77018
+Riverside,2022,82803
+Riverside,2023,87843
+San Antonio,2012,52131
+San Antonio,2013,51716
+San Antonio,2014,55578
+San Antonio,2015,56483
+San Antonio,2016,59780
+San Antonio,2017,61571
+San Antonio,2018,62790
+San Antonio,2019,66417
+San Antonio,2020,68303
+San Antonio,2021,70189
+San Antonio,2022,70538
+San Antonio,2023,73195
+San Diego,2012,60851
+San Diego,2013,61426
+San Diego,2014,52779
+San Diego,2015,55083
+San Diego,2016,56105
+San Diego,2017,56774
+San Diego,2018,57379
+San Diego,2019,62355
+San Diego,2020,64565
+San Diego,2021,66775
+San Diego,2022,98928
+San Diego,2023,103674
+San Francisco,2012,75779
+San Francisco,2013,79624
+San Francisco,2014,66233
+San Francisco,2015,67320
+San Francisco,2016,70824
+San Francisco,2017,76207
+San Francisco,2018,79079
+San Francisco,2019,83985
+San Francisco,2020,87494
+San Francisco,2021,91003
+San Francisco,2022,128151
+San Francisco,2023,127792
+Seattle,2012,66345
+Seattle,2013,67479
+Seattle,2014,83327
+Seattle,2015,88518
+Seattle,2016,96677
+Seattle,2017,101714
+Seattle,2018,107898
+Seattle,2019,114696
+Seattle,2020,115350
+Seattle,2021,116005
+Seattle,2022,106909
+Seattle,2023,110744
+St. Louis,2012,53015
+St. Louis,2013,54449
+St. Louis,2014,71329
+St. Louis,2015,75331
+St. Louis,2016,78612
+St. Louis,2017,82133
+St. Louis,2018,87910
+St. Louis,2019,94027
+St. Louis,2020,97874
+St. Louis,2021,101721
+St. Louis,2022,74531
+St. Louis,2023,78224
+Tampa,2012,45053
+Tampa,2013,45880
+Tampa,2014,46895
+Tampa,2015,48911
+Tampa,2016,51115
+Tampa,2017,52212
+Tampa,2018,54912
+Tampa,2019,57906
+Tampa,2020,60428
+Tampa,2021,62951
+Tampa,2022,69290
+Tampa,2023,72743
+WashingtonDC,2012,89593
+WashingtonDC,2013,90149
+WashingtonDC,2014,91284
+WashingtonDC,2015,93294
+WashingtonDC,2016,95843
+WashingtonDC,2017,99669
+WashingtonDC,2018,102180
+WashingtonDC,2019,105659
+WashingtonDC,2020,108007
+WashingtonDC,2021,110355
+WashingtonDC,2022,117432
+WashingtonDC,2023,121469
